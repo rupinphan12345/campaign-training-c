@@ -44,6 +44,11 @@
 2.  Example
 
     -
+    int %d
+    float   %f
+    double  %lf
+    char    %c
+    .....
 
     ```c
         int x = 100 + 50;
