@@ -17,6 +17,12 @@
     - Data type: char, int, float, double, bool...
 
         ```c
+            //int     %d
+            //float   %f
+            //double  %lf
+            //char    %c
+            //.....
+            
             int myNum = 5;
             double myFloatNum = 5.99;
             char myLetter = 'D';
@@ -46,12 +52,6 @@
     -
     
     ```c
-        //int %d
-        //float   %f
-        //double  %lf
-        //char    %c
-        //.....
-    
         int x = 100 + 50;
         printf("%d\n", x);
         x += 10;
