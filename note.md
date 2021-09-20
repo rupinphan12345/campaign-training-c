@@ -44,13 +44,14 @@
 2.  Example
 
     -
-    int %d
-    float   %f
-    double  %lf
-    char    %c
-    .....
-
+    
     ```c
+        //int %d
+        //float   %f
+        //double  %lf
+        //char    %c
+        //.....
+    
         int x = 100 + 50;
         printf("%d\n", x);
         x += 10;
