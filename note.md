@@ -1,8 +1,8 @@
 # Print
 
-    ```c
+   
         printf("Hello World");
-    ```
+  
 
 # Variable and Data type
 
