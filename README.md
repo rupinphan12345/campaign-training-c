@@ -145,11 +145,11 @@
     - Giải phương trình bậc nhất: ax + b = 0
 
         ```c
-            int a, b;
+            float a, b;
             printf("nhap a: ");
-            scanf("%d", &a);
+            scanf("%f", &a);
             printf("nhap b: ");
-            scanf("%d", &b);
+            scanf("%f", &b);
 
             ....
         ```
